@@ -1,0 +1,19 @@
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.color button {
+    background-color: aquamarine;
+    pad: 10px;
+    gap: 15px;
+    flex: 2px;
+}
+
+.border {
+    border: 2px solid grey;
+    margin: 40px;
+    border-radius: 5px;
+}
